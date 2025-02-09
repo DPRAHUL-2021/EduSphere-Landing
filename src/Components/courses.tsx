@@ -6,7 +6,7 @@ export default function Courses() {
       title: "Streamlining Course Scheduling with AI.",
       description:
         "Learn how our AI-powered platform can automate and optimize your course scheduling process, saving time and improving efficiency.",
-      image: "./public/AI_AI.avif",
+      image: "/AI_AI.avif",
     },
     {
       category: "LEARNING TOOL",
@@ -14,7 +14,7 @@ export default function Courses() {
       title: "Interactive Learning Tools for Students.",
       description:
         "Discover the array of interactive tools that can enhance the learning experience, including quizzes, assessments, and real-time feedback.",
-      image: "./public/LN.avif",
+      image: "/LN.avif",
     },
     {
       category: "SCALABILITY",
@@ -22,7 +22,7 @@ export default function Courses() {
       title: "Scalable Platform for Institutions of All Sizes.",
       description:
         "Explore how our platform scales to meet the growing demands of your institution, with seamless integration and efficient management.",
-      image: "./public/yoyo.avif",
+      image: "/yoyo.avif",
     },
   ];
 
