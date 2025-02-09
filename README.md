@@ -3,7 +3,7 @@
 EduSphere is an AI-powered course management platform, and this repository contains the **landing page** built to showcase its capabilities and attract users.
 
 ## 🚀 Live Demo
-[EduSphere Landing Page]([https://your-live-demo-link.vercel.app](https://edusphere-landing.vercel.app/))
+[EduSphere Landing Page](https://edusphere-landing.vercel.app)
 
 ## 🛠 Technologies Used
 - **Frontend**: React, TypeScript, Tailwind CSS
