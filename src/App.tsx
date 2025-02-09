@@ -28,7 +28,7 @@ function App() {
                 <span className="text-3xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-indigo-500 to-purple-500">
                   EduSphere
                 </span> */}
-                <img src="./public/Edu_Sphere_Logo__.svg" alt="" />
+                <img src="/Edu_Sphere_Logo__.svg" alt="" />
               </div>
               <div className="hidden md:flex items-center gap-10">
                 <NavLink className="text-white/90 hover:text-white transition-all">Platform</NavLink>
