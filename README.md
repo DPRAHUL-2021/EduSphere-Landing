@@ -1,6 +1,6 @@
 # EduSphere Landing Page
 
-EduSphere is an AI-powered course management platform, and this repository contains the **landing page** built to showcase its capabilities and attract users.
+EduSphere is a Secure DRM powered course management platform, and this repository contains the **landing page** built to showcase its capabilities and attract users.
 
 ## 🚀 Live Demo
 [EduSphere Landing Page](https://edusphere-landing.vercel.app)
@@ -17,8 +17,6 @@ EduSphere is an AI-powered course management platform, and this repository conta
 ├── public/               # Static assets (images, logos, etc.)
 ├── src/
 │   ├── components/       # Reusable UI components
-│   ├── pages/            # Page components
-│   ├── assets/           # Static files (if not in public)
 │   ├── App.tsx           # Main app component
 │   ├── main.tsx          # Entry point
 ├── .eslintrc.js          # ESLint configuration
